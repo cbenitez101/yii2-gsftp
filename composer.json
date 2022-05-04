@@ -10,7 +10,14 @@
             "email": "herve@guenot.info"
         }
     ],
+     "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/cbenitez101/yii2-gftp"
+        }
+    ],
     "require": {
+        "hguenot/yii2-gftp": "dev-master",
     },
     "require-dev": {
     },
