@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "hguenot/yii2-gftp": "dev-master",
+        "hguenot/yii2-gftp": "dev-master"
     },
     "require-dev": {
     },
